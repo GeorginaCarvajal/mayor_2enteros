@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="lNw_cP4LEt081Gj_snd0" name="Página-1">
-        <mxGraphModel dx="662" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="832" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -15,14 +15,6 @@
                 <mxCell id="5" style="edgeStyle=none;html=1;" parent="1" source="4" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="320" y="220" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="11" style="edgeStyle=none;html=1;" parent="1" source="4" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="480" y="210" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="480" y="160"/>
-                        </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="4" value="x,y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#000000;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -81,9 +73,6 @@
                 </mxCell>
                 <mxCell id="XajPz9CYiRdqiBeXRI6i-15" value="fin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
                     <mxGeometry x="260" y="560" width="120" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="12" value="son iguales" style="whiteSpace=wrap;html=1;fillColor=#000000;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
-                    <mxGeometry x="420" y="180" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="20">
                     <mxGeometry relative="1" as="geometry">
